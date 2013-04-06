@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xiaoxiao_worm_medicine"
+  id="myeclipse.1363621167066"
+  context-root="/xiaoxiao_worm_medicine"
+  j2ee-spec="5.0"
+  archive="xiaoxiao_worm_medicine.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
